@@ -1,0 +1,7 @@
+//remove the file
+#include<stdio.h>
+main()
+{
+    remove("temp.txt");
+    return 0;
+}
